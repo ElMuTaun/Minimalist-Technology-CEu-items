@@ -1,0 +1,14 @@
+
+# GT Resource Packs CEu
+Resources packs I personally updating.
+
+## Credits
+### Faithful Texture
+Stellar Fusion (404)  
+[GTNH Faithful Textures by Ethryan](https://github.com/Ethryan/GTNH-Faithful-Textures)  
+[Faithful32-1.12.2](https://github.com/F32Organization/Faithful32-1.12.2)  
+
+### Minimalist Technology Items
+[Minimalist Technology by Pyrolusite](https://forum.industrial-craft.net/thread/10612-16x-minimalist-technology-gt6-gt5e/)  
+[Resourcality by brachy84](https://www.curseforge.com/minecraft/texture-packs/zedtech)  
+
